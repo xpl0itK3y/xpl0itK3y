@@ -162,6 +162,6 @@ const developer = {
   
   ![Profile Views](https://komarev.com/ghpvc/?username=xpl0itK3y&color=blueviolet&style=for-the-badge)
   
-  ⭐ From [xpl0itK3y](https://github.com/YOUR_USERNAME)
+  ⭐ From [xpl0itK3y](https://github.com/xpl0itK3y)
 
 </div>
