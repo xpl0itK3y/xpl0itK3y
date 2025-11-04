@@ -23,7 +23,7 @@
 ## 🚀 Обо мне
 ``` javascript
 const developer = {
-    name: "Denis",
+    name: "xpl0itK3y",
     role: "Full Stack Engineer",
     location: "🌍 Где-то в интернете",
     code: ["JavaScript", "Python", "TypeScript", "HTML/CSS"],
@@ -92,7 +92,7 @@ const developer = {
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xpl0itK3y)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-website.com)
