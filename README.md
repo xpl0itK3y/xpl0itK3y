@@ -14,14 +14,14 @@
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/xpl0itK3y/xpl0itK3y/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
 ---
 
 ## 🚀 Обо мне
-
+``` javascript
 const developer = {
     name: "Denis",
     role: "Full Stack Engineer",
@@ -31,6 +31,7 @@ const developer = {
     challenge: "Изучаю что-то новое каждый день",
     funFact: "Баги - это не ошибки, это незадокументированные фичи 🐛"
 };
+```
 ---
 
 ## 💻 Технологии и инструменты
@@ -54,8 +55,8 @@ const developer = {
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xpl0itK3y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpl0itK3y&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -71,7 +72,7 @@ const developer = {
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=xpl0itK3y&theme=tokyonight&no-frame=true&row=1&column=7)
   
 </div>
 
@@ -81,7 +82,7 @@ const developer = {
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xpl0itK3y&theme=tokyo-night&hide_border=true&area=true)
   
 </div>
 
@@ -114,8 +115,8 @@ const developer = {
   
   ### 💬 "Код - это поэзия в движении"
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=xpl0itK3y&color=blueviolet&style=for-the-badge)
   
-  ⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+  ⭐ From [xpl0itK3y](https://github.com/YOUR_USERNAME)
 
 </div>
