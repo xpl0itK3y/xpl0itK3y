@@ -185,21 +185,16 @@ const developer = {
 
 ---
 
-## ⏱️ WakaTime Coding Stats
+## 📊 Weekly Coding Time
 
-<!--START_SECTION:waka-->
+<div align="center">
+  
+  [![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_USER_ID)
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&layout=compact" />
+  
+</div>
 
-```txt
-From: 28 October 2025 - To: 04 November 2025
-
-CSS          5 hrs 56 mins   >>>>>>>>>>>>-------------   47.95 %
-Python       2 hrs 50 mins   >>>>>>-------------------   22.97 %
-HTML         1 hr 46 mins    >>>>---------------------   14.31 %
-JavaScript   51 mins         >>-----------------------   06.97 %
-Markdown     24 mins         >------------------------   03.26 %
-```
-
-<!--END_SECTION:waka-->
 
 
 ## 🧬 Conway's Game of Life
