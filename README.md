@@ -226,3 +226,13 @@ const developer = {
   ![Matrix](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
   
 </div>
+
+## 🧬 Conway's Game of Life
+
+Смотри как клетки живут и эволюционируют!
+
+<div align="center">
+  
+  ![Game of Life](https://raw.githubusercontent.com/xpl0itK3y/xpl0itK3y/output/game-of-life.svg)
+  
+</div>
