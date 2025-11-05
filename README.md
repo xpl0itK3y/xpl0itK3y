@@ -185,18 +185,16 @@ const developer = {
 
 ---
 
-## 📊 Weekly Coding Time
+## ⏱️ WakaTime Coding Stats
 
-<div align="center">
-  
-  [![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_USER_ID)
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&layout=compact" />
-  
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
+
+<div align="center"> <!-- 🌌 GitHub Profile Summary --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xpl0itK3y&theme=solarized_dark" alt="GitHub Profile Details" /> <!-- 🔤 Most used languages --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xpl0itK3y&theme=solarized_dark" alt="Most Commit Language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xpl0itK3y&theme=solarized_dark" alt="Repos Per Language" /> <!-- 📊 General stats --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xpl0itK3y&theme=solarized_dark" alt="GitHub Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xpl0itK3y&theme=solarized_dark" alt="Productive Time" /> <!-- 💻 Weekly WakaTime Stats --> <br /> </div>
+ 
 ## 🧬 Conway's Game of Life
 
 Клетки живут и эволюционируют сами!
