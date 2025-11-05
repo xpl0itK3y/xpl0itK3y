@@ -41,6 +41,7 @@ const developer = {
 </div>
 
 
+
 ## 💻 Технологии и инструменты
 
 <div align="center">
@@ -180,6 +181,16 @@ const developer = {
 
 </div>
 
+## 💚 Matrix Mode
+
+<div align="center">
+  
+  ![Matrix](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Wake+up,+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit;Knock,+knock,+Neo)
+  
+</div>
+
+
+
 ---
 
 ## 💡 Случайная цитата для вдохновения
@@ -192,6 +203,8 @@ const developer = {
 
 ---
 
+
+
 <div align="center">
   
   ### 💬 "Код - это поэзия в движении"
@@ -201,3 +214,5 @@ const developer = {
   ⭐ From [xpl0itK3y](https://github.com/xpl0itK3y)
 
 </div>
+
+
