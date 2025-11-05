@@ -32,6 +32,15 @@ const developer = {
 ```
 ---
 
+## 🎮 Coding Journey
+
+<div align="center">
+  
+  ![Coding](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=while(alive)+%7B+code()+%7D;if(bugs)+%7B+coffee()+%7D;git+commit+-m+"fixed+it";sudo+make+me+a+sandwich;console.log('Hello+World!');import+awesome+from+'developer')
+  
+</div>
+
+
 ## 💻 Технологии и инструменты
 
 <div align="center">
