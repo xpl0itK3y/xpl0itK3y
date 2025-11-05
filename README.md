@@ -203,7 +203,13 @@ const developer = {
 
 ---
 
+## 📊 Animated Metrics
 
+<div align="center">
+  
+  ![Metrics](https://raw.githubusercontent.com/xpl0itK3y/xpl0itK3y/main/github-metrics.svg)
+  
+</div>
 
 <div align="center">
   
