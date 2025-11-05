@@ -203,13 +203,17 @@ const developer = {
 
 ---
 
-## 📊 Animated Metrics
+
+## 🧬 Conway's Game of Life
+
+Клетки живут и эволюционируют сами!
 
 <div align="center">
   
-  ![Metrics](https://raw.githubusercontent.com/xpl0itK3y/xpl0itK3y/main/github-metrics.svg)
+  ![Game of Life](./game-of-life.svg)
   
 </div>
+
 
 <div align="center">
   
