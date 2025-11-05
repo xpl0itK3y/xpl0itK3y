@@ -185,6 +185,11 @@ const developer = {
 
 ---
 
+## ⏱️ WakaTime Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## 🧬 Conway's Game of Life
 
