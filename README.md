@@ -227,12 +227,3 @@ const developer = {
   
 </div>
 
-## 🧬 Conway's Game of Life
-
-Смотри как клетки живут и эволюционируют!
-
-<div align="center">
-  
-  ![Game of Life](https://raw.githubusercontent.com/xpl0itK3y/xpl0itK3y/output/game-of-life.svg)
-  
-</div>
