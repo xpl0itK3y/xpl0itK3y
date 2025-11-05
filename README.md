@@ -207,16 +207,6 @@ const developer = {
 
 <div align="center">
   
-  ### 💬 "Код - это поэзия в движении"
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=xpl0itK3y&color=blueviolet&style=for-the-badge)
-  
-  ⭐ From [xpl0itK3y](https://github.com/xpl0itK3y)
-
-</div>
-
-<div align="center">
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
   
 </div>
