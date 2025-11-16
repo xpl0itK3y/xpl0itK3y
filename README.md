@@ -190,12 +190,13 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```python
-From: 07 November 2025 - To: 14 November 2025
+From: 08 November 2025 - To: 15 November 2025
 
-Total Time: 4 hrs 39 mins
+Total Time: 3 hrs 14 mins
 
-TypeScript   4 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░▓▓▓▓▓   80.91 %
-Other        21 mins         ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   07.03 %
+TypeScript   2 hrs 17 mins   ░░░░░░░░░░░░░░░░▓▓▓▓▓▓▓▓▓   64.03 %
+JSON         27 mins         ░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   12.94 %
+Other        19 mins         ░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   09.15 %
 ```
 
 <!--END_SECTION:waka-->
