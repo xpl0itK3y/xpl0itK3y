@@ -191,6 +191,26 @@ Other        16 mins         ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 <!--END_SECTION:waka-->
+
+## 📊 Animated Metrics
+
+
+
+
+
+<div align="center">
+
+
+  
+
+
+  ![Metrics](https://raw.githubusercontent.com/xpl0itK3y/xpl0itK3y/main/github-metrics.svg)
+
+
+  
+
+
+</div>
  
 ## 🧬 Conway's Game of Life
 
