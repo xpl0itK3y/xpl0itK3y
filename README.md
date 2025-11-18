@@ -226,11 +226,3 @@ Other        16 mins         ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
   
 </div>
-
-## 📊 Animated Metrics
-
-<div align="center">
-  
-  ![Metrics](https://raw.githubusercontent.com/xpl0itK3y/xpl0itK3y/main/github-metrics.svg)
-  
-</div>
