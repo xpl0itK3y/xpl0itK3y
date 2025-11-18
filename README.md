@@ -130,17 +130,6 @@ const developer = {
 
 </div>
 
----
-
-## 🏆 GitHub Трофеи
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=xpl0itK3y&theme=tokyonight&no-frame=true&row=1&column=7)
-  
-</div>
-
----
 
 ## 🔥 Активность
 
