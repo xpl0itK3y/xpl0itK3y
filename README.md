@@ -202,13 +202,6 @@ Other        16 mins         ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 <!--END_SECTION:waka-->
-
-
-
-
-
-
-<div align="center"> <!-- 🌌 GitHub Profile Summary --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xpl0itK3y&theme=solarized_dark" alt="GitHub Profile Details" /> <!-- 🔤 Most used languages --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xpl0itK3y&theme=solarized_dark" alt="Most Commit Language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xpl0itK3y&theme=solarized_dark" alt="Repos Per Language" /> <!-- 📊 General stats --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xpl0itK3y&theme=solarized_dark" alt="GitHub Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xpl0itK3y&theme=solarized_dark" alt="Productive Time" /> <!-- 💻 Weekly WakaTime Stats --> <br /> </div>
  
 ## 🧬 Conway's Game of Life
 
