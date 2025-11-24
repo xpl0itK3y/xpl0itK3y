@@ -1,4 +1,4 @@
-# 👋 Привет, я xpl0itK3y!
+# 👋 Привет, я Денис!
 
 <div align="center">
   
@@ -23,7 +23,7 @@
 ## 🚀 Обо мне
 ``` javascript
 const developer = {
-    name: "xpl0itK3y",
+    name: "Denis",
     role: "Full Stack Engineer",
     location: "🌍 Где-то в интернете",
     challenge: "Изучаю что-то новое каждый день",
