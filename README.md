@@ -179,15 +179,15 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 November 2025 - To: 25 November 2025
+From: 19 November 2025 - To: 26 November 2025
 
-Total Time: 14 hrs 48 mins
+Total Time: 13 hrs 26 mins
 
-JavaScript                 11 hrs 23 mins  ░░░░░░░░░░░░░░░░░░░▓▓▓▓▓▓   76.80 %
-Python                     56 mins         ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   06.34 %
-CSS                        37 mins         ░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   04.23 %
-PHP                        36 mins         ░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   04.09 %
-Nginx configuration file   21 mins         ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   02.38 %
+JavaScript                 10 hrs 21 mins  ░░░░░░░░░░░░░░░░░░░▓▓▓▓▓▓   76.44 %
+Python                     1 hr 11 mins    ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   08.81 %
+YAML                       33 mins         ░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   04.09 %
+Docker                     21 mins         ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   02.62 %
+Nginx configuration file   21 mins         ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   02.60 %
 ```
 
 <!--END_SECTION:waka-->
