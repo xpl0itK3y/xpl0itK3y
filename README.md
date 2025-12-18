@@ -1,4 +1,3 @@
-
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Разработчик+%F0%9F%92%BB;Создатель+крутых+проектов+%F0%9F%9A%80;Всегда+учусь+чему-то+новому+%F0%9F%93%9A)
@@ -38,7 +37,30 @@ const developer = {
   
 </div>
 
+---
 
+## 📊 GitHub Статистика
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xpl0itK3y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpl0itK3y&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xpl0itK3y&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=F75C7E&currStreakLabel=00F7FF)
+  
+</div>
+
+<div align="center">
+
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=xpl0itK3y&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+---
 
 ## 💻 Технологии и инструменты
 
@@ -128,12 +150,13 @@ const developer = {
 
 </div>
 
+---
 
 ## 🔥 Активность
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xpl0itK3y&theme=tokyo-night&hide_border=true&area=true)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xpl0itK3y&theme=tokyo-night&hide_border=true&area=true&custom_title=График%20активности)
   
 </div>
 
@@ -150,6 +173,8 @@ const developer = {
 
 </div>
 
+---
+
 ## 💚 Matrix Mode
 
 <div align="center">
@@ -157,8 +182,6 @@ const developer = {
   ![Matrix](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Wake+up,+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit;Knock,+knock,+Neo)
   
 </div>
-
-
 
 ---
 
@@ -190,26 +213,18 @@ PHP            24 mins         ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 
 <!--END_SECTION:waka-->
 
+---
+
 ## 📊 Animated Metrics
-
-
-
-
 
 <div align="center">
 
-
-  
-
-
   ![Metrics](https://raw.githubusercontent.com/xpl0itK3y/xpl0itK3y/main/github-metrics.svg)
 
-
-  
-
-
 </div>
- 
+
+---
+
 ## 🧬 Conway's Game of Life
 
 Клетки живут и эволюционируют сами!
@@ -219,7 +234,6 @@ PHP            24 mins         ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
   ![Game of Life](./game-of-life.svg)
   
 </div>
-
 
 <div align="center">
   
