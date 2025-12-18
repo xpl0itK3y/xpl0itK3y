@@ -1,14 +1,14 @@
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Разработчик+%F0%9F%92%BB;Создатель+крутых+проектов+%F0%9F%9A%80;Всегда+учусь+чему-то+новому+%F0%9F%93%9A)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Developer+%F0%9F%92%BB;Creator+of+cool+projects+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%93%9A)
 
 </div>
 
----
 
-## 🎮 Автоматическая Snake Game
 
-Смотри, как змейка собирает коммиты!
+## 🎮 Automatic Snake Game
+
+Watch the snake collect commits!
 
 <div align="center">
   
@@ -16,18 +16,18 @@
   
 </div>
 
----
 
-## 🚀 Обо мне
+
+## 🚀 About Me
 ``` javascript
 const developer = {
     role: "Full Stack Engineer",
-    location: "🌍 Где-то в интернете",
-    challenge: "Изучаю что-то новое каждый день",
-    funFact: "Баги - это не ошибки, это незадокументированные фичи 🐛"
+    location: "🌍 Somewhere on the internet",
+    challenge: "Learning something new every day",
+    funFact: "Bugs aren't errors, they're undocumented features 🐛"
 };
 ```
----
+
 
 ## 🎮 Coding Journey
 
@@ -37,9 +37,8 @@ const developer = {
   
 </div>
 
----
 
-## 📊 GitHub Статистика
+## 📊 GitHub Statistics
 
 <div align="center">
   
@@ -54,19 +53,28 @@ const developer = {
   
 </div>
 
-<div align="center">
 
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=xpl0itK3y&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xpl0itK3y&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xpl0itK3y&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xpl0itK3y&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xpl0itK3y&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xpl0itK3y&theme=tokyonight&utcOffset=6" />
 
 </div>
 
----
 
-## 💻 Технологии и инструменты
+## 💻 Technologies & Tools
 
 <div align="center">
 
-  <!-- 🧠 Языки программирования -->
+  <!-- 🧠 Programming Languages -->
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -78,7 +86,7 @@ const developer = {
 
   <br/>
 
-  <!-- 🎨 Фронтенд -->
+  <!-- 🎨 Frontend -->
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
@@ -93,7 +101,7 @@ const developer = {
 
   <br/>
 
-  <!-- ⚙️ Бэкенд -->
+  <!-- ⚙️ Backend -->
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -105,7 +113,7 @@ const developer = {
 
   <br/>
 
-  <!-- 🗄️ Базы данных -->
+  <!-- 🗄️ Databases -->
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -117,7 +125,7 @@ const developer = {
 
   <br/>
 
-  <!-- ☁️ DevOps / Инфраструктура -->
+  <!-- ☁️ DevOps / Infrastructure -->
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -140,7 +148,7 @@ const developer = {
 
   <br/>
 
-  <!-- 🧰 Инструменты -->
+  <!-- 🧰 Tools -->
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -150,19 +158,28 @@ const developer = {
 
 </div>
 
----
 
-## 🔥 Активность
+
+## 🔥 Activity
 
 <div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xpl0itK3y&theme=tokyo-night&hide_border=true&area=true&custom_title=График%20активности)
-  
+
+  ![3D Contribution](https://github-readme-activity-graph.vercel.app/graph?username=xpl0itK3y&bg_color=0d1117&color=00F7FF&line=F75C7E&point=FFFFFF&area=true&hide_border=true)
+
 </div>
 
----
 
-## 📫 Связаться со мной
+## 💬 Meme of the Day
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
+</div>
+
+
+
+## 📫 Connect with Me
 
 <div align="center">
 
@@ -173,7 +190,6 @@ const developer = {
 
 </div>
 
----
 
 ## 💚 Matrix Mode
 
@@ -182,18 +198,6 @@ const developer = {
   ![Matrix](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Wake+up,+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit;Knock,+knock,+Neo)
   
 </div>
-
----
-
-## 💡 Случайная цитата для вдохновения
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
----
 
 ## ⏱️ WakaTime Coding Stats
 
@@ -213,7 +217,6 @@ PHP            24 mins         ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 
 <!--END_SECTION:waka-->
 
----
 
 ## 📊 Animated Metrics
 
@@ -223,17 +226,18 @@ PHP            24 mins         ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 
 </div>
 
----
+
 
 ## 🧬 Conway's Game of Life
 
-Клетки живут и эволюционируют сами!
+Cells live and evolve on their own!
 
 <div align="center">
   
   ![Game of Life](./game-of-life.svg)
   
 </div>
+
 
 <div align="center">
   
