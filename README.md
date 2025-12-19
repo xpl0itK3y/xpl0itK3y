@@ -47,12 +47,6 @@ const developer = {
   
 </div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xpl0itK3y&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=F75C7E&currStreakLabel=00F7FF)
-  
-</div>
-
 
 
 ## 🏆 GitHub Achievements
