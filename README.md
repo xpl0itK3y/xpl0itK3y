@@ -198,15 +198,15 @@ const developer = {
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 December 2025 - To: 19 December 2025
+From: 13 December 2025 - To: 20 December 2025
 
-Total Time: 2 hrs 52 mins
+Total Time: 6 hrs 17 mins
 
-Markdown       1 hr            ░░░░░░░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   34.88 %
-Python         33 mins         ░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   19.68 %
-PHP            24 mins         ░░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   14.25 %
-JSON           21 mins         ░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   12.34 %
-HTML           13 mins         ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   07.69 %
+JavaScript     3 hrs 18 mins   ░░░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓   52.64 %
+Markdown       1 hr            ░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   15.91 %
+Python         35 mins         ░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   09.39 %
+PHP            24 mins         ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   06.50 %
+JSON           21 mins         ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   05.63 %
 ```
 
 <!--END_SECTION:waka-->
