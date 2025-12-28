@@ -302,16 +302,6 @@ const developer = {
 
 </div>
 
-
-## 💬 Meme of the Day
-
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
-
-</div>
-
-
 ## 💚 Matrix Mode
 
 <div align="center">
@@ -345,23 +335,4 @@ Markdown       16 mins         ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 
   ![Metrics](https://raw.githubusercontent.com/xpl0itK3y/xpl0itK3y/main/github-metrics.svg)
 
-</div>
-
-
-
-## 🧬 Conway's Game of Life
-
-Cells live and evolve on their own!
-
-<div align="center">
-  
-  ![Game of Life](./game-of-life.svg)
-  
-</div>
-
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-  
 </div>
