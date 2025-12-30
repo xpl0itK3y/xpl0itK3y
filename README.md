@@ -302,13 +302,6 @@ const developer = {
 
 </div>
 
-## 💚 Matrix Mode
-
-<div align="center">
-  
-  ![Matrix](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Wake+up,+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit;Knock,+knock,+Neo)
-  
-</div>
 
 ## ⏱️ WakaTime Coding Stats
 
@@ -327,12 +320,3 @@ CSS                        16 mins         ░▓▓▓▓▓▓▓▓▓▓▓�
 ```
 
 <!--END_SECTION:waka-->
-
-
-## 📊 Animated Metrics
-
-<div align="center">
-
-  ![Metrics](https://raw.githubusercontent.com/xpl0itK3y/xpl0itK3y/main/github-metrics.svg)
-
-</div>
