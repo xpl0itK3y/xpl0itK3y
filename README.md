@@ -80,15 +80,15 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```python
-From: 05 January 2026 - To: 12 January 2026
+From: 06 January 2026 - To: 13 January 2026
 
-Total Time: 16 hrs 36 mins
+Total Time: 12 hrs 51 mins
 
-HTML           3 hrs 36 mins   ░░░░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   21.65 %
-Python         3 hrs 15 mins   ░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   19.55 %
-JavaScript     2 hrs 58 mins   ░░░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   17.83 %
-Markdown       1 hr 46 mins    ░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   10.66 %
-JSON           1 hr 33 mins    ░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   09.36 %
+HTML           3 hrs 2 mins    ░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   23.57 %
+Python         2 hrs 43 mins   ░░░░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   21.11 %
+JavaScript     2 hrs 36 mins   ░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   20.17 %
+CSS            1 hr 21 mins    ░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   10.54 %
+JSON           1 hr 11 mins    ░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   09.20 %
 ```
 
 <!--END_SECTION:waka-->
