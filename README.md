@@ -3,37 +3,6 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Python+Developer;AI+Engineer;Data-Driven+Solutions;Telegram+Bot+Specialist;FastAPI+%7C+LangChain+%7C+Pandas+%7C+Docker)
 </div>
 
-
-## About Me
-
-``` javascript
-class BackendAIEngineer:
-    def __init__(self):
-        self.role = "Backend Python Developer & AI Engineer"
-        self.specialization = ["Backend Development", "AI/ML", "Telegram Bots"]
-        self.tech_stack = {
-            "backend": ["FastAPI", "Django", "Flask"],
-            "ai_ml": ["LangChain", "OpenAI", "Anthropic Claude", "RAG"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis", "Pinecone"],
-            "bots": ["Aiogram", "Python-telegram-bot"],
-            "tools": ["Docker", "Git", "Linux"]
-        }
-        self.learning = "Always exploring new AI technologies"
-        self.fun_fact = "I turn coffee into intelligent APIs"
-    
-    def say_hi(self):
-        print("Thanks for visiting my profile!")
-    
-    def get_status(self):
-        return {
-            "available_for": ["Freelance", "Part-time", "Interesting projects"],
-            "motto": "Clean code, smart solutions, continuous learning"
-        }
-
-me = BackendAIEngineer()
-me.say_hi()
-```
-
 ## Technologies & Tools
 <div align="center">
 
@@ -73,22 +42,3 @@ me.say_hi()
   ![3D Contribution](https://github-readme-activity-graph.vercel.app/graph?username=xpl0itK3y&bg_color=0d1117&color=00F7FF&line=F75C7E&point=FFFFFF&area=true&hide_border=true)
 
 </div>
-
-
-## WakaTime Coding Stats
-
-<!--START_SECTION:waka-->
-
-```python
-From: 08 January 2026 - To: 15 January 2026
-
-Total Time: 10 hrs 49 mins
-
-HTML           3 hrs 22 mins   ░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   31.10 %
-JavaScript     2 hrs 14 mins   ░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   20.69 %
-Markdown       1 hr 46 mins    ░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   16.27 %
-JSON           1 hr 16 mins    ░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   11.73 %
-CSS            1 hr 3 mins     ░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   09.74 %
-```
-
-<!--END_SECTION:waka-->
