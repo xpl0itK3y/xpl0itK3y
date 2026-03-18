@@ -35,10 +35,3 @@
 
 </div>
 
-## Activity
-
-<div align="center">
-
-  ![3D Contribution](https://github-readme-activity-graph.vercel.app/graph?username=xpl0itK3y&bg_color=0d1117&color=00F7FF&line=F75C7E&point=FFFFFF&area=true&hide_border=true)
-
-</div>
