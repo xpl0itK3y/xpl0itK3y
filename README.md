@@ -1,7 +1,4 @@
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Python+Developer;AI+Engineer;Data-Driven+Solutions;Telegram+Bot+Specialist;FastAPI+%7C+LangChain+%7C+Pandas+%7C+Docker)
-</div>
+
 
 ## Technologies & Tools
 <div align="center">
@@ -18,19 +15,5 @@
 | **DevOps & Version Control** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) |
 | **AI Agents** | ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white) ![OpenClaw](https://img.shields.io/badge/OpenClaw-D97757?style=for-the-badge&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-F59E0B?style=for-the-badge&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge&logoColor=white) ![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Honcho](https://img.shields.io/badge/Honcho-10B981?style=for-the-badge&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)|
-</div>
-
-## GitHub Achievements
-
-<div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xpl0itK3y&theme=tokyonight" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xpl0itK3y&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xpl0itK3y&theme=tokyonight" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xpl0itK3y&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xpl0itK3y&theme=tokyonight&utcOffset=6" />
-
 </div>
 
